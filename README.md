@@ -1,2 +1,3 @@
-# favorite-desserts-JW
-Logging favorite desserts of the lab 
+## Favorite desserts of the Santoro Lab 
+
+ - Julia, **chocolate chip cookie** 
